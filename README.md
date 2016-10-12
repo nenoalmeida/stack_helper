@@ -71,3 +71,7 @@ Para subir o projeto
 (dando o push no projeto para que seja feito o pull request) git push origin nome-da-branch
 
 e por ultimo vá até o seu repositório no github (parte gráfica) e faça o pull request.
+
+
+### Participantes do projeto
+Leonardo Scoza, Elizeu Santos, Bianca Carvalho, Neno Almeida, Vagnerlandio Nunes, Rauan Felipe, Alberto Rocha, Samuel Rubens, Ricardo França, Warley Franco, Pedro Fernandes e Rodrigo.
